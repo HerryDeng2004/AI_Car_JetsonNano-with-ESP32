@@ -7,4 +7,4 @@
 
 为了减小Git占用内存，我只把ESP32部分主要源码以main.cpp呈现。相关库我放在Lib中，方便获取与更改。
 
-ESP32部分采用VScode+Platforms开发模式，有需求建议提前学习相关配置。
+ESP32部分采用VScode+PlatformIO开发模式，有需求建议提前学习相关配置。
