@@ -9,7 +9,7 @@
 
 ESP32部分采用VScode+PlatformIO开发模式，有需求建议提前学习相关配置。
 
-Jetson Nano部分可以参考JetsonYolov5和jetson-inference这两个文件，里面较为详细介绍一些基础的用法，这对于之后的加速部署起到基础作用。
+Jetson Nano部分可以参考JetsonYolov5和jetson-inference这两个文件，里面较为详细介绍一些基础的用法，这对于之后的加速部署起到基础作用。环境部署方面涉及例如pytorch，torchvision，pycuda，opencv等方面，这部分需要注意的细节非常多。
 
 我将在之后把执行程序以及GUI界面上传上来，以便快速入手。
 
