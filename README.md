@@ -19,3 +19,6 @@ Jetson Nano部分可以参考JetsonYolov5和jetson-inference这两个文件，�
 欢迎交流催更。qq:2949827172
 
 前提：一律不回答基本常识，一律不回答软件安装问题。
+
+赠人玫瑰，手有余香，麻烦留下你的star吧![91JZUPO@W6TY2DG~59@` 2Q](https://github.com/HerryDeng2004/AI_Car_JetsonNano-with-ESP32/assets/134835469/31404fd4-d867-4ab3-8c4b-8dadd66d654a)
+
