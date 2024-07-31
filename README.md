@@ -21,4 +21,19 @@ Jetson Nano部分可以参考JetsonYolov5和jetson-inference这两个文件，�
 
 -----------------------------------------------------------------------------------
 
+车辆样图
+
+![image](https://github.com/user-attachments/assets/bcb20e37-c1fc-4e12-ade2-6bec9a9b4578)
+
+网页样图
+
+![image](https://github.com/user-attachments/assets/7483aa4d-453c-4afb-a656-7fe4c5830302)
+
+GPS定位图
+
+![image](https://github.com/user-attachments/assets/24f5d9ec-6b34-4734-a075-bc1b9413106c)
+
+用户端网页监视（RTP方案）
+
+![image](https://github.com/user-attachments/assets/1d34b202-600f-42ca-8744-67dde6d11007)
 
